@@ -19,3 +19,5 @@ https://nomadcoders.co/ (노마드코더 강의)
 https://www.inflearn.com/ (인프런 강의)
 <br>
 https://fastcampus.co.kr/ (패스트캠퍼스 강의)
+<br>
+https://wikidocs.net/book/2 (쉽게 풀어놓은 파이썬 강의)
